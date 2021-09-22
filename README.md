@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @santosalessandrocesar
+- 👀 I’m interested in Front-end development & UI/UX Design
+- 🌱 I’m currently learning software engineering
+- 💞️ I try to collaborate on human solutions
+- 📫 Find me on LinkedIn.com/in/alessandrocesarsantos
