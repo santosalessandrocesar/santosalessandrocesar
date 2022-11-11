@@ -1,13 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DBFF00&height=120&section=header"/>
 
 ## Hello! I'm Alessandro and this is my Github profile...
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=santosalessandrocesar&show_icons=true&count_private=true&hide_border=true&title_color=DBFF00&icon_color=DBFF00&text_color=008B8B&bg_color=0d1117" alt="Alessandro Cesar github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosalessandrocesar&layout=compact&hide_border=true&title_color=DBFF00&text_color=008B8B&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosalessandrocesar&layout=compact&show_icons=true&count_private=true&hide_border=true&title_color=DBFF00&icon_color=DBFF00&text_color=008B8B&bg_color=0d1117" />
 </div>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=santosalessandrocesar&bg_color=0d1117&color=DBFF00&line=FFFF00&point=ffa500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
